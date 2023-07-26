@@ -10,3 +10,4 @@ flask
 colorama
 #extra
 psycopg2
+certifi>=2023.7.22 # not directly required, pinned by Snyk to avoid a vulnerability
